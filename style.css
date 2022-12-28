@@ -1,0 +1,17 @@
+/* ––– Remove right trend and recommendation column ––– */
+
+.r-ttdzmv .r-1d6w8o1{
+    display: none !important;
+}
+
+/* ––– Remove footer ––– */
+
+.r-1ifxtd0 > nav{
+    display: none !important;
+}
+
+/* ––– Remove analysis ––– */
+
+.css-1dbjc4n .r-1mdbhws > div:first-child {
+    display: none !important;
+}
