@@ -1,4 +1,4 @@
-# Arc Boost Twitter
+# Arc Boost Simple Twitter
 
 Using several lines of code to hide twitter trends and analytics data in your twitter feed.
 
