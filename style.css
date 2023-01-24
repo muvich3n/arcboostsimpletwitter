@@ -12,6 +12,6 @@
 
 /* ––– Remove analysis ––– */
 
-.css-1dbjc4n .r-1mdbhws > div:first-child {
+.css-1dbjc4n .r-1mdbhws > div:nth-last-child(2) {
     display: none !important;
 }
